@@ -1,0 +1,38 @@
+/* General container styles */
+.react-calendar {
+    width: 100%;
+    background: #ffffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* Navigation buttons */
+  .react-calendar__navigation button {
+    color: #4318ff!important;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  /* Highlight weekends */
+  .react-calendar__tile.highlight-weekend {
+    background-color: #e0e7ff;
+    color: #4318ff!important;
+    border-radius: 8px;
+  }
+  
+  /* Selected day styling */
+  .react-calendar__tile--active {
+    color: #4318ff!important;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  /* Hover effect */
+  .react-calendar__tile:hover {
+    background-color: #d3d7ff;
+    border-radius: 8px;
+    color: #4318ff!important;
+  }
+  
