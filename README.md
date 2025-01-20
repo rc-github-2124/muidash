@@ -31,7 +31,6 @@ https://marvelous-travesseiro-a145d6.netlify.app/
 - **React**: Core library for building the user interface.
 - **React Router**: For managing application routes.
 - **Material-UI**: For pre-built and customizable UI components.
-- **Sass (SCSS)**: For custom styles and responsive design.
 - **D3.js**: For rendering interactive data visualizations.
 
 ---
