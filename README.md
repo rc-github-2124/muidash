@@ -1,6 +1,6 @@
 # React Sass Dashboard
 
-A modern and fully responsive dashboard built from scratch using **React**, **Sass**, **Material-UI**, and **D3.js**. This project is designed to provide a robust, visually appealing, and interactive platform for data visualization and management.
+A modern and fully responsive dashboard built from scratch using **React**, **Material-UI**, and **D3.js**. This project is designed to provide a robust, visually appealing, and interactive platform for data visualization and management.
 
 ---
 
